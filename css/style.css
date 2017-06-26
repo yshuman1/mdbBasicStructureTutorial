@@ -55,3 +55,26 @@ body,
 .fa-check {
     color: green;
 }
+
+.btn-ptc {
+  background-color: #45526E !important;
+}
+
+.btn-ptc:hover {
+  background-color: #59698d !important;
+}
+
+.btn-ptc:focus {
+  background-color: #59698d !important;
+}
+
+footer.page-footer {
+    background-color: #1C2331;
+}
+
+.carousel-multi-item .carousel-indicators li {
+    background-color: #1C2331;
+}
+.carousel-multi-item .carousel-indicators .active {
+    background-color: #1C2331;
+}
